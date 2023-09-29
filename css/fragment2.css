@@ -1,0 +1,39 @@
+.fragment2 {
+  padding: 6rem 10rem 0rem;
+  display: flex;
+  flex-direction: column;
+}
+
+.fragment2 .info-line {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-top: 6rem;
+  margin-bottom: 6rem;
+}
+
+.fragment2 .info-line .text-default {
+  width: 25%;
+  border-bottom: 4px solid #323232;
+  color: #323232;
+  padding: 0 2rem 1rem;
+  text-align: center;
+}
+
+.fragment2 table,
+th,
+td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+.fragment2 table {
+  height: 32rem;
+  text-align: center;
+  margin-top: 6rem;
+  margin-bottom: 6rem;
+}
+
+.fragment2 .tbl-td {
+  width: 20rem;
+}

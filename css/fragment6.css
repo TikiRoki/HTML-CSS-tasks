@@ -1,0 +1,15 @@
+.fragment6 {
+  margin: 6rem 8rem 6rem 8rem;
+
+  border: 6px solid #a1b29f;
+
+  text-align: center;
+  padding: 2px;
+}
+
+.fragment6 .fakeborder {
+  border: 1px solid black;
+  padding: 6rem 8rem;
+  display: flex;
+  flex-direction: column;
+}

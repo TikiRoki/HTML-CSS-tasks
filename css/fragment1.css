@@ -1,0 +1,70 @@
+.fragment1 .sl {
+  margin-top: 1.5rem;
+  margin-bottom: 3.2rem;
+}
+
+.fragment1 .tl {
+  margin-bottom: 8rem;
+}
+
+.fragment1 .button-grn {
+  text-align: center;
+  padding: 1.5rem 4rem;
+  outline: none;
+  border-radius: 0;
+  border: 0;
+  background: #a1b29f;
+  color: white;
+  font-family: "Open Sans";
+  font-size: 1rem;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 150%;
+  cursor: pointer;
+}
+
+.fragment1 .links {
+  display: flex;
+  flex-direction: row;
+  justify-items: space-between;
+  margin-top: 4rem;
+  margin-bottom: 4rem;
+  align-self: flex-end;
+  margin-right: 8rem;
+  width: 20%;
+  justify-content: space-between;
+}
+
+.fragment1 .links .link {
+  width: 1.3rem;
+  height: 1.3rem;
+  padding: 0.5rem;
+  border-radius: 100%;
+  border: 1px solid black;
+  cursor: pointer;
+}
+
+.fragment1 {
+  display: flex;
+  flex-direction: row;
+  border-bottom: 1px solid black;
+}
+
+.fragment1 .right {
+  padding-left: 3rem;
+  padding-top: 17rem;
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  text-align: left;
+}
+
+.fragment1 .left {
+  width: 50%;
+}
+
+.fragment1 .left .img-b {
+  height: 100%;
+  width: 100%;
+}

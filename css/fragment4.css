@@ -1,0 +1,9 @@
+.fragment4 {
+  padding: 6rem 10rem 4rem;
+  display: flex;
+  flex-direction: column;
+}
+
+.fragment4 .vids {
+  margin-bottom: 6rem;
+}
